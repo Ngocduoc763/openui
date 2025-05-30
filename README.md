@@ -1,4 +1,4 @@
-# OpenUI
+ngocduoc.link# OpenUI
 
 <p align="center">
   <img src="./assets/openui.png" width="150" alt="OpenUI" />
